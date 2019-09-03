@@ -68,3 +68,6 @@ build/
 
 # ssl
 ssl/
+
+# misc
+.DS_Store
