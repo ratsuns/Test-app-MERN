@@ -1,10 +1,10 @@
 {
-  "name": "mern-boilerplate",
+  "name": "MERN-Boilerplate",
   "version": "1.0.0",
   "description": "README.md",
   "main": "app.js",
-  "author": "Tamas Szoke",
-  "contact": "tamas.szoke.dev@gmail.com",
+  "author": "Chris Beltran",
+  "contact": "alan.chris.beltran@gmail.com",
   "license": "MIT",
   "scripts": {
     "dev:client": "npm start --prefix client/",
