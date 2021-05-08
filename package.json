@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "concurrently": "^4.1.2",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.7.7",
     "lodash.update": "^4.10.2",
     "npm-check": "^5.9.0",
     "npm-check-updates": "^3.1.21"
