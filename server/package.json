@@ -46,7 +46,7 @@
     "lodash": "^4.17.15",
     "lodash.update": "^4.10.2",
     "mongoose": "^5.6.11",
-    "nodemailer": "^4.6.5",
+    "nodemailer": "^6.4.16",
     "nodemailer-smtp-transport": "^2.7.4",
     "npm-check": "^5.9.0",
     "passport": "^0.4.0",
